@@ -1,0 +1,15 @@
+===ORDER OF PROGRAMMING===
+
+* Create middle axies line.
+* Create axies coordinate lines.
+* Create function to convert graph corrdinates to window coordinates.
+* Create function to change number of lines.
+* Link axies number to coordinate lines (to always fill the screen up) (essentially zooming in and out).
+* Test drawing equations.
+* Add ability to change sampling rate.
+* Fix convert function to work with decimals.
+* Allow to change number of lines for X and Y independantly.
+* Added on screen textboxes to change X and Y range while running.
+* Added on screen textboxes to change the color of the Graph.
+* Created rule that if x-axies > 25, sampling rate = 1  else, sampling rate = 0.1
+* Added an catch function if try to make axies number 0. (Otherwise will be div by 0).
